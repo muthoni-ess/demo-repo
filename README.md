@@ -1,6 +1,8 @@
-#DEMO
+# DEMO
+
 August is almost over
-##Highlights
+
+## Highlights
+
 Practice doing something useful today
-##Analysis
-Off days are short maybe
+
